@@ -72,8 +72,8 @@ Employee attrition is a major challenge for organizations because it affects pro
 ---
 
 ## Dashboard Preview
+![HR Analytics Dashboard](HR%20Dashboard%20Preview.jpeg)
 
-> *The dashboard screenshot will be inserted here after uploading it to GitHub.*
 
 ---
 
