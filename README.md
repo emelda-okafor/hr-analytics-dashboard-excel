@@ -34,19 +34,17 @@ Employee attrition is a major challenge for organizations because it affects pro
 - Data Visualization
 
 ---
+## Features
 
-## Dashboard Features
-
-- Total Employees KPI
-- Employees Left KPI
-- Attrition Rate KPI
-- Average Satisfaction KPI
-- Employees by Department
-- Employees Left by Department
-- Attrition by Promotion
-- Attrition by Salary Level
-- Attrition by Work Accident
-- Interactive Dashboard Filters
+- Interactive HR Analytics Dashboard built in Microsoft Excel
+- KPI cards for Total Employees, Employees Left, Attrition Rate, and Average Satisfaction
+- Interactive slicers for filtering by Department, Salary Level, Promotion, and Work Accident
+- PivotTables and PivotCharts for data analysis
+- Clickable navigation icons (hyperlinks) for easy movement between worksheets
+- Department-wise employee distribution analysis
+- Attrition analysis by promotion, salary level, and work accidents
+- Average employee satisfaction analysis by department
+- Clean, user-friendly dashboard design
 
 ---
 
