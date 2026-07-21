@@ -80,7 +80,7 @@ Employee attrition is a major challenge for organizations because it affects pro
 ## Files Included
 
 - HR Analytics Dashboard.xlsx
-- Dashboard Screenshot.png
+- HR Dashboard Preview.jpeg
 - README.md
 
 ---
